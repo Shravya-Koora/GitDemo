@@ -19,6 +19,7 @@ public class Selenium_Introduction {
 		System.out.println(driver.getTitle());
 		
 		System.out.println("Develop Branch");
+		System.out.println("Develop Branch");
 		
 		System.out.println(driver.getCurrentUrl());
 		System.out.println(driver.getTitle());
